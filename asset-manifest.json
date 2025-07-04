@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ryuduckhyeon/react/static/css/main.10025a2e.css",
+    "main.js": "/ryuduckhyeon/react/static/js/main.490d6f9e.js",
+    "index.html": "/ryuduckhyeon/react/index.html",
+    "main.10025a2e.css.map": "/ryuduckhyeon/react/static/css/main.10025a2e.css.map",
+    "main.490d6f9e.js.map": "/ryuduckhyeon/react/static/js/main.490d6f9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10025a2e.css",
+    "static/js/main.490d6f9e.js"
+  ]
+}
